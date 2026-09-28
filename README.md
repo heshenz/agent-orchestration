@@ -1,4 +1,4 @@
-# Agent Orchestration Framework
+# Agent Orchestration Framework (outdated)
 
 A multi-agent coordination system for managing parallel AI tasks. Solves terminal clutter, API waste, and process isolation for spawning sub-agents.
 
